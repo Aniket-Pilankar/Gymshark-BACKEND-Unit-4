@@ -5,7 +5,7 @@ const router = express.Router();
 
 
 // for adding the new products to the mens section
-router.post( "/mens", async(req,res) => {
+router.post( "/womens", async(req,res) => {
     try{
         const womensProducts = await WomensProduct.create(req.body);
 

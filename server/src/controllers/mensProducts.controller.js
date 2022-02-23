@@ -20,7 +20,7 @@ router.post( "/mens", async(req,res) => {
 
 // getting and showing the products to front-end
 
-router.get( "/mens", async(req,res) => {
+router.get("/mens", async(req,res) => {
     try{
         const mensProducts = await MensProduct.find().lean().exec();
 
@@ -32,4 +32,15 @@ router.get( "/mens", async(req,res) => {
     }
 })
 
+router.get("/mens/:_id", async(req,res) => {
+    console.log('req.params.id: ', req.params._id);
+    try{
+        const mensProduct = await MensProduct.findById(req.params._id).lean().exec();
+        
+
+        res.status(201).send(mensProduct);
+    }catch(err) {
+        res.status(500).send(err.message);
+    }
+})
 module.exports = router;
