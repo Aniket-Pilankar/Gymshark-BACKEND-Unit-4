@@ -1,0 +1,116 @@
+[
+    
+    {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/SpeedPantBlackA1A1C-BBBB.A_ZH_ZH_600x.jpg?v=1643996909",
+     "name":"STUDIO JOGGERS",
+     "price": "50.00",
+     "color": "Black"
+
+ },
+{
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/BoldStringerBlackA1A5X.A-Edit_GB_BK_600x.jpg?v=1636751008",
+     "name":"BOLD STRINGER",
+     "price": "25.00",
+     "color":"BLACK"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/StudioPantStudioGreenA1A3U.A-Edit_BK_600x.jpg?v=1638156334",
+     "name":"STUDIO JOGGERS",
+     "price": "50.00",
+     "color": "GREEN"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GFXBOBSlingBagBlackI1A9U-BBKQ.A_ZH_ZH_600x.jpg?v=1643996301",
+     "name":"ANIMAL SLING BAG",
+     "price": "25.00",
+     "color":"BLACK"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GFXBobSnapbackBlackI1A9T-BBKQ.A_ZH_ZH_600x.jpg?v=1643996301",
+     "name":"ANIMAL SNAPBACK",
+     "price": "30.00",
+     "color":"BLACK"
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeWovenPantBlackA1A4B.A-Edit_BK_c0f5cfb1-7c29-4648-bf65-aff77b90615b_600x.jpg?v=1644941268",
+     "name":"RETAKE WOVEN JOGGERS",
+     "price": "75.00",
+     "color":"BLACK"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeHoodieBlackA1A5C.A-Edit_BK_425f40b4-d07a-475b-8d1b-c2db9ae1330f_600x.jpg?v=1644941141",
+     "name":"RETAKE HOODLE",
+     "price": "80.00",
+     "color":"BLACK"
+ },
+
+{
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeSeamless1-4ZipBlack-CharcoalGreyMarlA1A5H.A-Edit_BK_f94f6c9f-f237-41ea-9613-437536280d35_600x.jpg?v=1644941122",
+     "name":"RETAKE SEAMLESS ZIP1/4",
+     "price": "60.00",
+     "color":"Black/Charcoal Mrl"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeWovenPantCharcoalGreyA1A4B.A-Edit_BK_d0e25013-a5f3-4652-9eff-88066305f9a0_600x.jpg?v=1644941146",
+     "name":"RETAKE WOVEN JOGGERS",
+     "price": "75.00",
+     "color":"Charcoal Marl"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeSeamless1-4ZipLightGrey-BlackMarlA1A5H.A-Edit_BK_0169ca6b-0d5b-4784-85d4-b5f704761b4c_600x.jpg?v=1644941201",
+     "name":"RETAKE SEAMLESS ZIP1/4",
+     "price": "60.00",
+     "color":"LIGHT GREY/BLACK MARL"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeVestWildcardCharcoalGrey-BlackA1A6K.A-Edit_BK_bcf2c348-2b63-41c6-9627-4a91863a3788_600x.jpg?v=1644941171",
+     "name":"Retake Reversible Vest",
+     "price": "80.00",
+     "color":"Black/Marl"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeCrewWildcardBlackA1A6L.A-Edit_BK_799bde58-8cdc-4419-b2f4-9419899f6b48_600x.jpg?v=1644941163",
+     "name":"Retake Crew",
+     "price": "80.00",
+     "color":"Black"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeSeamlessSsT-ShirtLightGrey-BlackMarlA1A6U.A-Edit_BK_f7481610-a1b8-4561-b333-2470f906718a_600x.jpg?v=1644941126",
+     "name":"Retake Seamless T-Shirt",
+     "price": "40.00",
+     "color":"Black Marl/Light Grey"
+
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/NewEraGsHeadbandCharcoalMarlD1_ZH_ZH_71277826-2118-48f2-b5b2-7f1c7ac914f4_600x.jpg?v=1643996360",
+     "name":"New Era headband",
+     "price":"15.00",
+     "color":"Light Grey Marl"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/RetakeLsT-ShirtCharcoalGreyMarlA1A6M.A-Edit_BK_6315389b-8eaa-4201-93c0-ace599aa3238_600x.jpg?v=1644941156",
+     "name":"Retake Long Sleeve T-Shirt",
+     "price": "40.00",
+     "color":"Charcoal Marl"
+
+ },
+ {
+    "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/OversizedJogger_powerblock_NavyA2A2X-UBCY.A_ZH_ZH_34ee8d47-b394-4727-917c-b96146d551b0_600x.jpg?v=1645113679",
+     "name":"Essential Oversize Joggers",
+     "price": "50.00",
+     "color":"Navy"
+
+ }
+ 
+]

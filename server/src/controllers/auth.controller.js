@@ -5,7 +5,7 @@ const User = require("../models/user.model")
 
 const newToken = (user) => {
     // console.log(process.env) // -> JWt_secret_key will be there in process.env
-    return jwt.sign({ user }, process.env.JWT_SECRET_KEY);
+    return jwt.sign({ user },` ${process.env.JWT_SECRET_KEY}`);
 };
 
 const register = async (req, res) => {
