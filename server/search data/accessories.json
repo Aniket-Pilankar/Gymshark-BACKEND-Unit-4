@@ -1,0 +1,98 @@
+[
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GluteBundleFadedLilac-MoonstoneBlue-CactusGreenI1A6C-PBDF.A_ZH_600x.jpg?v=1643996306",
+        "name":"Glute Set 3pk",
+        "price":46.00,
+        "color":"Light Purple"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/MediumGluteBandCharcoalGreyI1A4C-GBBC.B_ZH_ZH_600x.jpg?v=1643996320",
+        "name":"Medium Glute Band",
+        "price":20.00,
+        "color":"Charcoal Grey"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayHoldallLightGreyI1A1G-GBCM9_ZH_ZH_6dd37423-1c7e-441d-ad59-5ed8ceb1e80e_600x.jpg?v=1645551044",
+        "name":"Every Day Gymbag",
+        "price":42.00,
+        "color":"Light Grey"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayHoldallOrchidPinkI1A1G-KBBL2_ZH_ZH_600x.jpg?v=1643996369",
+        "name":"Every Day Gymbag",
+        "price":42.00,
+        "color":"Orchid Pink"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/EverydayWashBag3pkLightGreyI1A1E-GBCM6_ZH_ZH_600x.jpg?v=1644968811",
+        "name":"Everyday Zip Pouch",
+        "price":16.00,
+        "color":"Light Grey"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNETWENT91A6E-BBBB.0168.A_ZH_ZH_600x.jpg?v=1644481774",
+        "name":"New Era Twenty9",
+        "price":30.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNewEraSharkheadCuffKnit-I1A1W-BBBB.0104.A_ZH_ZH_600x.jpg?v=1644968815",
+        "name":"New Era Sharkhead Cuff",
+        "price":25.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNEE-FRAMETRUCKER1A5D-BBBB.0112.A_ZH_ZH_600x.jpg?v=1644482271",
+        "name":"New Era E-Frame Trucker",
+        "price":30.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/NewEraGsHeadbandBlackMarl.D2-Edit_ZH_ZH_2ac87b5c-4388-47a4-ab50-9faff3bea970_600x.jpg?v=1643996360",
+        "name":"New Era Headband",
+        "price":15.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNEE-FRAMETRUCKER1A5D-WBBM.0137.A_ZH_ZH_600x.jpg?v=1644482269",
+        "name":"New Era E-Frame Trucker",
+        "price":30.00,
+        "color":"White"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNEFishermansBeanieblack.GSNEFishermansBeanieblack1-Edit_BK_600x.jpg?v=1639505394",
+        "name":"New Era Fishermans Beanie",
+        "price":25.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNETechCapNiagaraTealI1A1S-TBB41-Edit_BK_600x.jpg?v=1643996360",
+        "name":"New Era GS Tech Cap",
+        "price":30.00,
+        "color":"Teal"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNEFishermansBeanieStudioGreen.GSNEFishermansBeanieStudioGreen4_ZH_ZH_600x.jpg?v=1639505395",
+        "name":"New Era Fishermans Beanie",
+        "price":25.00,
+        "color":"White"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/NewEraGsHeadbandCharcoalMarlD1_ZH_ZH_71277826-2118-48f2-b5b2-7f1c7ac914f4_600x.jpg?v=1643996360",
+        "name":"New Era Headband",
+        "price":15.00,
+        "color":"Light Grey Marl"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNEMiniPomBlack.GSNEMiniPomBlack1-Edit_BK_600x.jpg?v=1643996311",
+        "name":"New Era Mini Pom",
+        "price":25.00,
+        "color":"Black"
+    },
+    {
+        "img":"https://cdn.shopify.com/s/files/1/0156/6146/products/GSNECuffKnit-PebbleGrey-I1A1T-GBC0.0013.B_ZH_ZH_600x.jpg?v=1645137295",
+        "name":"New Era Sharkhead Cuff",
+        "price":25.00,
+        "color":"Grey"
+    }
+]
