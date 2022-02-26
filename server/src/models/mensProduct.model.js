@@ -25,7 +25,12 @@ const mensProductSchema = new mongoose.Schema({
     description_points7: {type:String , required: false},
     description_points8: {type:String , required: false},
     description_points9: {type:String , required: false},
-    description_points10:{type:String , required: false}
+    description_points10:{type:String , required: false},
+    user_id: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: "user",
+        required: true,
+      }
 
 })
 
