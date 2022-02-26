@@ -33,7 +33,7 @@ router.get("/mens", async(req,res) => {
 })
 
 router.get("/mens/:_id", async(req,res) => {
-    console.log('req.params.id: ', req.params._id);
+    //console.log('req.params.id: ', req.params._id);
     try{
         const mensProduct = await MensProduct.findById(req.params._id).lean().exec();
         
