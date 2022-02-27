@@ -29,7 +29,7 @@ On frontend terminal perform:
 
 ```bash
   Open index.html with live server
-``.
+```
 
 
 
