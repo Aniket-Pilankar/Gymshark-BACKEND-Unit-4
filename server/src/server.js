@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const app = express();
 const connect = require('./configs/db');
+require('dotenv').config()
 
 const mensController = require('./controllers/mensProducts.controller');
 const womensController = require('./controllers/womensProducts.controller');
