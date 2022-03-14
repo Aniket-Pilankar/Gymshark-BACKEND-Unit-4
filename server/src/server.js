@@ -30,7 +30,7 @@ app.post('/login',login)
 
 
 
-app.listen(7000,async() => {
+app.listen(7000 || process.env.PORT,async() => {
     try{
         await connect();
         console.log("Listening on 7000")
